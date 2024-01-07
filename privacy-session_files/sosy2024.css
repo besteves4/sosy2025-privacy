@@ -41,9 +41,10 @@ section {
 }
 
 /* Navigation Bar */
+
 nav ul {
     list-style: none;
-    background-color: #684a26;
+    background-color: #682626;
     text-align: center;
     padding: 0.5rem 0;
     margin: 0;
@@ -90,6 +91,24 @@ nav ul li a:hover {
     text-align: justify;
 }
 
+#call ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+#call li {
+    position: relative;
+    padding-left: 1.5em;
+}
+
+#call ul li:before {
+    content: '✓ '; 
+    position: absolute;
+    left: 0;
+    width: 1em;
+    height: 1em;
+}
+
 #call h2 {
     text-align: center;
 }
@@ -99,6 +118,14 @@ nav ul li a:hover {
 }
 
 #dates h2 {
+    text-align: center;
+}
+
+#submission p {
+    text-align: justify;
+}
+
+#submission h2 {
     text-align: center;
 }
 
