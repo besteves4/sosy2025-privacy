@@ -6,5 +6,5 @@ Contact: Beatriz Esteves (Contacts: [:email:](mailto:beatriz.esteves@ugent.be) [
 
 Details:
 
-- SoSy 2025 Privacy session: [:globe_with_meridians:]()
-- SoSy 2024: [:globe_with_meridians:](https://events.vito.be/sosy2024/pages/program)
+- SoSy 2025 Privacy session: [:globe_with_meridians:](https://besteves4.github.io/sosy2025-privacy/)
+- SoSy 2024: [:globe_with_meridians:](https://sosy2025.eu)
